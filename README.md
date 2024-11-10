@@ -3,7 +3,7 @@
  a. Nasabah memberikan jumlah uang yang ingin diambil (0 - 1 Miliar) <br>
  b. Program akan menghitung berapa lembar/keping dari setiap pecahan yang diperlukan <br>
  c. Perhitungan dimulai dari pecahan terbesar (Rp100.000) sampai terkecil (Rp100) <br>
- Dengan aturan <br>
+ Dengan aturan: <br>
  a. Selalu mengutamakan pecahan uang terbesar<br>
  b. Program akan memberitahu jika ada sisa uang yang tidak bisa diuangkan<br>
  c. Memisahkan perhitungan antara uang kertas dan uang logam<br>
@@ -19,9 +19,5 @@ Tugas analisis data - HR <br>
 
 3. Jawab 2 Pertanyaan Utama: Pengaruh manajer terhadap kinerja, Sumber rekrutmen dengan tingkat keluar terendah
 
-Dengan penilaian: Kemampuan analisis data, Kualitas visualisasi, Ketepatan jawaban, Kedalaman analisis
-Tujuan:
-Memahami faktor yang mempengaruhi keluar-masuk karyawan untuk:
-Meningkatkan retensi
-Memperbaiki rekrutmen
-Optimalkan kinerja
+Dengan penilaian: Kemampuan analisis data, Kualitas visualisasi, Ketepatan jawaban, Kedalaman analisis<br>
+Tujuannya untuk memahami faktor yang mempengaruhi keluar-masuk karyawan untuk meningkatkan retensi, memperbaiki rekrutmen, optimalkan kinerja.
